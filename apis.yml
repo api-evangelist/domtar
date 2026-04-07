@@ -1,7 +1,11 @@
 aid: domtar
-url: https://raw.githubusercontent.com/api-evangelist/domtar/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/domtar/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.domtar.com
+description: >-
+  Domtar is committed to turning responsibly sourced wood fiber into essential products
+  like paper, pulp, recycled packaging, tissue, and lumber.
