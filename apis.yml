@@ -15,6 +15,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/DomtarDigitalGlobal
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/domtar
   - type: Website
     url: https://www.domtar.com
 description: >-
