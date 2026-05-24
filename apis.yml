@@ -21,6 +21,8 @@ common:
     url: https://www.linkedin.com/company/domtar
   - type: Website
     url: https://www.domtar.com
+  - type: LLMsTxt
+    url: https://domtar.com/llms.txt
 description: >-
   Domtar is committed to turning responsibly sourced wood fiber into essential products
   like paper, pulp, recycled packaging, tissue, and lumber. No public developer-facing
