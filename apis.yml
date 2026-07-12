@@ -16,6 +16,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/domtar-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/DomtarDigitalGlobal
   - type: LinkedIn
@@ -24,6 +26,8 @@ common:
     url: https://www.domtar.com
   - type: LlmsText
     url: https://domtar.com/llms.txt
+  - url: https://www.domtar.com/feed/
+    type: Blog
 description: >-
   Domtar is committed to turning responsibly sourced wood fiber into essential products
   like paper, pulp, recycled packaging, tissue, and lumber. No public developer-facing
