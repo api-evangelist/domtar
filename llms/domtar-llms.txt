@@ -1,0 +1,36 @@
+# Domtar: Fiber for the Future
+
+> Domtar is a leading North American manufacturer of fiber-based products, including paper, market pulp, packaging, tissue, and wood products. The company is known for large-scale manufacturing, sustainability leadership, and responsible fiber sourcing.
+
+Homepage: https://www.domtar.com/
+Sitemap: https://www.domtar.com/sitemap_index.xml
+
+Company & Overview
+[Company Facts] https://www.domtar.com/company-facts/ - Key facts, scale, and business overview
+[Our Leaders] https://www.domtar.com/about-domtar/domtar-leaders/ - Executive leadership and governance structure
+[Our History] https://www.domtar.com/about-domtar/our-history/ - Company history and evolution in the forest products industry
+[Our Locations] https://www.domtar.com/our-company/all-locations/ 
+
+Products & Capabilities
+[Paper] https://www.domtar.com/categories/paper/ - Overview of paper manufacturing and product categories
+[Pulp] https://www.domtar.com/categories/pulp/ - Overview of fluff and papergrade pulp production
+[Packaging] https://www.domtar.com/packaging/ - Overview of paper-based packaging products, solutions and certifications
+[Tissue] https://www.domtar.com/tissue/ - Bath tissue, paper towels and away-from-home hygiene solutions
+[Wood] https://www.domtar.com/wood-products/ - Lumber and wood products for construction and industrial applications
+
+Sustainability & Responsibility
+[Sustainability] https://www.domtar.com/responsibility/sustainability/home/ - Sustainability strategy, goals, and performance
+[Certifications] https://www.domtar.com/responsibility/our-certifications/ - Third-party certifications including FSC, SFI, and sustainability standards
+
+Key Brands & Products
+[Cougar] https://www.domtar.com/domtar-paper/our-brands/cougar/ - Extraordinary Paper for Extraordinary Ideas
+[Lynx] https://www.domtar.com/domtar-paper/our-brands/lynx/ - Trusted Paper for Tried and True Printing
+[Husky] https://www.domtar.com/domtar-paper/our-brands/husky/ - Dependable Paper That Always Delivers
+[EarthChoice Office Paper] https://www.domtar.com/domtar-paper/our-brands/earth-choice/ - Reliable Office Paper...Environmental Responsibility
+[Lettermark] https://www.domtar.com/domtar-paper/our-brands/lettermark-paper/ - Your Everyday Paper of Choice
+[Xerox Paper and Specialty Media] https://www.domtar.com/domtar-paper/our-brands/xerox-paper-and-specialty-media/ - From multipurpose printer papers to digital printing
+[Clarion POS] https://www.domtar.com/our-product/clarion-pos/ - Phenol-free thermal receipt paper, certified recyclable
+
+Insights, Inspiration & News
+[Paper Inspiration] https://www.domtar.com/inspiration/ - Creative inspiration and real-world applications of paper, print, paper, and design
+[Newsroom] https://www.domtar.com/resources/newsroom/ - News and announcements
