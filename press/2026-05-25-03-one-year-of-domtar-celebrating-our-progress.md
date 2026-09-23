@@ -1,7 +1,9 @@
 ---
 title: 'One Year of Domtar: Celebrating Our Progress'
 url: https://www.domtar.com/integrated-domtar-highlights-year-one/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Domtar" press release artificial intelligence'
 position: 3
 source: serpapi-google

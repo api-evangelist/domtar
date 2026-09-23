@@ -1,7 +1,9 @@
 ---
 title: Pulp and Paper Engineers Shape the Future of Our Industry
 url: https://www.domtar.com/pulp-and-paper-engineers-shape-the-future-of-our-industry/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Domtar" press release artificial intelligence'
 position: 4
 source: serpapi-google
